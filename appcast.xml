@@ -3,6 +3,15 @@
     <channel>
         <title>Mirabot Browser</title>
         <item>
+            <title>1.0.8</title>
+            <pubDate>Fri, 30 Oct 2026 16:44:00 -0500</pubDate>
+            <sparkle:version>1.0.8</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/joedwy/mirabot-cef-releases/releases/download/v1.0.8/Mirabot-Browser-1.0.8.dmg" length="161124123" type="application/octet-stream" sparkle:edSignature="W/nD76FBmQQNKB2ugdsiovZhSogT9dufQw+GlE51UdPi50We7XkPzsz7Qt1UARajRJGxcEwkP1KPGFzq8SuUAQ=="/>
+        </item>
+        <item>
             <title>1.0.7</title>
             <pubDate>Thu, 29 Oct 2026 19:46:16 -0500</pubDate>
             <sparkle:version>1.0.7</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/joedwy/mirabot-cef-releases/releases/download/v1.0.6/Mirabot-Browser-1.0.6.dmg" length="160860857" type="application/octet-stream" sparkle:edSignature="hpbhQugPGYcFdJCoNZcL8Yj3EISBXpopPabyD3LPEO1lU/x7LL/+bbHKFNc41Wr5hesGEIaDPWrp979JGt4ZCQ=="/>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Tue, 01 Sep 2026 20:08:17 -0500</pubDate>
-            <sparkle:version>1.0.3</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/joedwy/mirabot-cef-releases/releases/download/v1.0.3/Mirabot-Browser-1.0.3.dmg" length="160827138" type="application/octet-stream" sparkle:edSignature="NUcdZ2RPAzeIycYAhMxVZJKrpd9AkjMSGZqWThVKSucvt+OWGGSprflZYaQjVozoWhM7keeIjkXbagsH+z39BQ=="/>
         </item>
     </channel>
 </rss>
